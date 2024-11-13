@@ -1,0 +1,102 @@
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\bin\Debug\net6.0\Repository.deps.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\refint\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\ref\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\bin\Debug\net6.0\Repository.deps.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\refint\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Repository\obj\Debug\net6.0\ref\Repository.dll
+G:\FinalProject\Backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.deps.json
+G:\FinalProject\Backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+G:\FinalProject\Backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.dll
+G:\FinalProject\Backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.pdb
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.dll
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\refint\Repository.dll
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.pdb
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+G:\FinalProject\Backend\ImageDesign\Repository\obj\Debug\net6.0\ref\Repository.dll
+G:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+F:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+F:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.dll
+F:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.pdb
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.dll
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.pdb
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+E:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.dll
+E:\FinalProject\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.pdb
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.dll
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.pdb
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\FinalProject\backend\ImageDesign\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\bin\Debug\net6.0\Repository.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Repository\obj\Debug\net6.0\ref\Repository.dll

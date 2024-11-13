@@ -1,0 +1,105 @@
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\ref\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\bin\Debug\net6.0\Common.deps.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\bin\Debug\net6.0\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\refint\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Common\obj\Debug\net6.0\ref\Common.dll
+G:\FinalProject\Backend\ImageDesign\Common\bin\Debug\net6.0\Common.deps.json
+G:\FinalProject\Backend\ImageDesign\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+G:\FinalProject\Backend\ImageDesign\Common\bin\Debug\net6.0\Common.dll
+G:\FinalProject\Backend\ImageDesign\Common\bin\Debug\net6.0\Common.pdb
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.dll
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\refint\Common.dll
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.pdb
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+G:\FinalProject\Backend\ImageDesign\Common\obj\Debug\net6.0\ref\Common.dll
+G:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.sourcelink.json
+F:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.deps.json
+F:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+F:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.dll
+F:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.pdb
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.dll
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\refint\Common.dll
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.pdb
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\ref\Common.dll
+F:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.sourcelink.json
+E:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.deps.json
+E:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+E:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.dll
+E:\FinalProject\backend\ImageDesign\Common\bin\Debug\net6.0\Common.pdb
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.dll
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\refint\Common.dll
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.pdb
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+E:\FinalProject\backend\ImageDesign\Common\obj\Debug\net6.0\ref\Common.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\bin\Debug\net6.0\Common.deps.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\bin\Debug\net6.0\Common.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\bin\Debug\net6.0\Common.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.sourcelink.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\refint\Common.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Common\obj\Debug\net6.0\ref\Common.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\bin\Debug\net6.0\Common.deps.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\bin\Debug\net6.0\Common.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\bin\Debug\net6.0\Common.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.sourcelink.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\refint\Common.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Common\obj\Debug\net6.0\ref\Common.dll

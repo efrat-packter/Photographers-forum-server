@@ -1,0 +1,137 @@
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Service.deps.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Service.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Service.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Service.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Common.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\bin\Release\net6.0\Repository.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\refint\Service.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\Service.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\C#++\ImagesDesign\Service\obj\Release\net6.0\ref\Service.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Service.deps.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Service.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Service.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Service.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Common.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Repository.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Common.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\bin\Release\net6.0\Repository.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\refint\Service.dll
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.pdb
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\Service.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\אתי יונגרייז\FinalProject\Backend\ImagesDesign\Service\obj\Release\net6.0\ref\Service.dll
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Service.deps.json
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Service.runtimeconfig.json
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Service.dll
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Service.pdb
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Common.dll
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Repository.dll
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Common.pdb
+G:\FinalProject\Backend\ImageDesign\Service\bin\Release\net6.0\Repository.pdb
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.Up2Date
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.dll
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\refint\Service.dll
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.pdb
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\Service.genruntimeconfig.cache
+G:\FinalProject\Backend\ImageDesign\Service\obj\Release\net6.0\ref\Service.dll
+G:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.sourcelink.json
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.deps.json
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.runtimeconfig.json
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.dll
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.pdb
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Common.dll
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Repository.dll
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Common.pdb
+F:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Repository.pdb
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.dll
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\refint\Service.dll
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.pdb
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.genruntimeconfig.cache
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\ref\Service.dll
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.sourcelink.json
+F:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.Up2Date
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.deps.json
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.runtimeconfig.json
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.dll
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Service.pdb
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Common.dll
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Repository.dll
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Common.pdb
+E:\FinalProject\backend\ImageDesign\Service\bin\Release\net6.0\Repository.pdb
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.CopyComplete
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.dll
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\refint\Service.dll
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.pdb
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\Service.genruntimeconfig.cache
+E:\FinalProject\backend\ImageDesign\Service\obj\Release\net6.0\ref\Service.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Service.deps.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Service.runtimeconfig.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Service.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Service.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Common.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Repository.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Common.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\bin\Release\net6.0\Repository.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.sourcelink.json
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.Up2Date
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\refint\Service.dll
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.pdb
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\Service.genruntimeconfig.cache
+E:\‏‏תיקיה חדשה (2)\backend\ImageDesign\Service\obj\Release\net6.0\ref\Service.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Service.deps.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Service.runtimeconfig.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Service.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Service.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Common.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Repository.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Common.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\bin\Release\net6.0\Repository.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.AssemblyReference.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfoInputs.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.AssemblyInfo.cs
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.sourcelink.json
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.csproj.Up2Date
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\refint\Service.dll
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.pdb
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\Service.genruntimeconfig.cache
+D:\אפרת לימודים\‏‏תיקיה חדשה\backend\ImageDesign\Service\obj\Release\net6.0\ref\Service.dll
